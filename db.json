@@ -1,0 +1,44 @@
+{
+  "student": [
+    {
+      "id": "ee27",
+      "stdname": "sujitha",
+      "stdemail": "s@gamil.com"
+    },
+    {
+      "id": "fdbf",
+      "stdname": "siva",
+      "stdemail": "siv@gmail.com"
+    },
+    {
+      "id": "2f54",
+      "stdname": "nithya",
+      "stdemail": "n@gmail.com"
+    },
+    {
+      "id": "6ecb",
+      "stdname": "suji",
+      "stdemail": "s@gamil.com"
+    },
+    {
+      "id": "93a3",
+      "stdname": "suji",
+      "stdemail": "vmhkjblbhjvgh@gamil.com"
+    },
+    {
+      "id": "bc4e",
+      "stdname": "suji",
+      "stdemail": "suji@gamil.com"
+    },
+    {
+      "id": "269b",
+      "stdname": "nithya",
+      "stdemail": "n@gmail.com"
+    },
+    {
+      "id": "6f82",
+      "stdname": "siva",
+      "stdemail": "suji@gamil.com"
+    }
+  ]
+}

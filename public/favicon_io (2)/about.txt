@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Chonburi
+- Font Author: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)
+- Font Source: https://fonts.gstatic.com/s/chonburi/v12/8AtqGs-wOpGRTBq66IWaFr3biAfZ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
